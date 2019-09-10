@@ -18,4 +18,6 @@ Celia(A) just modified this part of the file
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
-*Modifier le fichier*
+Modifier le fichier was written by student B
+Student A concludes that this project is almost over
+
