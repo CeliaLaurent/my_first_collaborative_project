@@ -19,3 +19,6 @@ Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
 *dernierement Modifier le fichir par Nesrine*
+Student A concludes that this project is almost over
+
+
